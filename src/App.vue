@@ -4,7 +4,6 @@
     <div class="flex main-container">
       <!-- <BaseSide /> -->
       <div w="full" py="4">
-        2
         <HelloWorld msg="Hello Vue 3 + Element Plus + Vite" />
       </div>
     </div>
